@@ -1,0 +1,21 @@
+page-contact {
+    .img{
+        width: 200px;
+        height: 190px;
+        border-radius: 50%;    
+        margin-left: auto;
+        margin-right: auto;   
+    }
+    .grid{
+         align-items: center;
+    }
+    a{
+        text-decoration: none;
+    }
+    .text-contact{
+        text-align: center !important;
+    }
+    .card{
+        max-width: 600px !important;
+    }
+}
